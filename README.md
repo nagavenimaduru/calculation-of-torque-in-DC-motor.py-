@@ -1,1 +1,0 @@
-# calculation-of-torque-in-DC-motor.py-
